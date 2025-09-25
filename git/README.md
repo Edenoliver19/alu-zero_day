@@ -1,1 +1,1 @@
-This is the readme within git
+It’s time to code!
